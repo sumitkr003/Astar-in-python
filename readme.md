@@ -1,4 +1,4 @@
-#Astar algorithm implementation in python
+# Astar algorithm implementation in python
 
 ### Algorithm
 
